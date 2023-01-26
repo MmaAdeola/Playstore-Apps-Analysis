@@ -9,10 +9,25 @@ This project was completed as a team effort by G.K. Jennifer, Uchanma Adeola Igb
 - Power BI
 - Microsoft Excel
 
+## Project Overview
+- Python for data cleaning
+- MySQL for running queries on the cleaned data
+- Power BI for creating an interactive dashboard
+
+## Data format
+Data is cleaned and stored in MySQL for querying, and the results are then displayed on the Power BI dashboard.
+
 ## Team Members
 - G.K. Jennifer
 - Uchanma Adeola Igbokwe
 - Amul Gaurav
 
-## How to Contribute
-If you are interested in contributing to this project, please reach out to us via email or GitHub. We will be happy to review any pull requests or discuss any potential improvements to the project.
+## How to contribute
+1. Fork the repository
+2. Create a new branch with a descriptive name
+3. Make changes and test thoroughly
+4. Create a pull request
+
+## Presentation
+A vimeo video link for the presentation of the project is provided below:
+https://vimeo.com/790742845
