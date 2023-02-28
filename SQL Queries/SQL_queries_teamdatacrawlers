@@ -58,14 +58,12 @@ LIMIT 5;
 
 -- Question 6: Which Genre has the most number of published apps?
 
-SELECT DISTINCT
-    App, MAX(Installs) AS maximum_no_of_installs
-FROM
-    `myfirstsandboxp.reviews_data.app_data`
-WHERE
-    Category = 'Game'
-GROUP BY App
-ORDER BY maximum_no_of_installs DESC;
+SELECT Genres,
+       COUNT(Genres) AS Number_of_Apps
+FROM `myfirstsandboxp.reviews_data.app_data`
+GROUP BY Genres
+ORDER BY Number_of_Apps DESC
+LIMIT 2;
 
 
 -- Question 7: Provide the list of all games ordered in such a way
