@@ -32,4 +32,7 @@ Data is cleaned and stored in MySQL for querying, and the results are then displ
 ## Presentation
 A vimeo video link for the presentation of the project is provided below:
 For PowerBi Dashboard: https://vimeo.com/790742845
-For SQL Queries: 
+
+For SQL Queries: https://vimeo.com/788420635
+
+<iframe src="https://player.vimeo.com/video/788420635?h=2132a72e8b" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
