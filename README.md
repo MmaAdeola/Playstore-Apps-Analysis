@@ -5,13 +5,14 @@ This project was completed as a team effort by G.K. Jennifer, Uchanma Adeola Igb
 
 ## Tech Stack
 - Python
+- Google Bigquery
 - MySQL
 - Power BI
 - Microsoft Excel
 
 ## Project Overview
 - Python for data cleaning
-- MySQL for running queries on the cleaned data
+- Google Bigquery and MySQL for running queries on the cleaned data
 - Power BI for creating an interactive dashboard
 
 ## Data format
@@ -30,4 +31,5 @@ Data is cleaned and stored in MySQL for querying, and the results are then displ
 
 ## Presentation
 A vimeo video link for the presentation of the project is provided below:
-https://vimeo.com/790742845
+For PowerBi Dashboard: https://vimeo.com/790742845
+For SQL Queries: 
