@@ -39,3 +39,6 @@ A vimeo video links for the presentation of the project are provided below:
 -For SQL Queries: https://vimeo.com/788420635
 
 ![Play_store_dashboard_1](https://user-images.githubusercontent.com/107181687/221955013-956829b0-76c2-46de-abcf-12f6616f8f67.gif)
+
+I was also interested in creating a dashboard specifically tailored to a playstore user, as a result I created the dashboard below:
+
