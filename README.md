@@ -46,3 +46,6 @@ I was also interested in creating a dashboard specifically tailored to a playsto
 
 -DASHBOARD 2
 ![Play_store_dashboard_2](https://user-images.githubusercontent.com/107181687/221963458-cf397936-916c-498c-8a6f-a31d4afc4562.gif)
+
+### Summary
+
